@@ -8,7 +8,7 @@
     <h1>Popular Anime List</h1>
 
     <ul>
-        <li>zoro</li>
+        <li>lucy and zoro</li>
         <li>naruto</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
