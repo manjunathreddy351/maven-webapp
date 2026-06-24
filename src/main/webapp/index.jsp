@@ -8,8 +8,8 @@
     <h1>Popular Anime List</h1>
 
     <ul>
-        <li>hancock and zoro</li>
-        <li>naruto</li>
+        <li>nami and zoro</li>
+        <li>jujutsu</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
         <li>Jujutsu Kaisen</li>
