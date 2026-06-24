@@ -8,7 +8,7 @@
     <h1>Popular Anime List</h1>
 
     <ul>
-        <li>nami and zoro</li>
+        <li>hiori and zoro</li>
         <li>jujutsu</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
