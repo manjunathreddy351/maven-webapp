@@ -8,7 +8,7 @@
     <h1>Popular Anime List</h1>
 
     <ul>
-        <li>sanji and zoro</li>
+        <li>one piece</li>
         <li>jujutsu</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
