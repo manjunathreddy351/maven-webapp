@@ -9,7 +9,7 @@
 
     <ul>
         <li>Naruto</li>
-        <li>One Piece</li>
+        <li>naruto</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
         <li>Jujutsu Kaisen</li>
@@ -20,7 +20,7 @@
 
     <%
         String[] animeNames = {
-            "Naruto",
+            "luffy",
             "One Piece",
             "Attack on Titan",
             "Demon Slayer",
