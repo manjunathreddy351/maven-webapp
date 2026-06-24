@@ -8,7 +8,7 @@
     <h1>Popular Anime List</h1>
 
     <ul>
-        <li>hinata</li>
+        <li>zoro</li>
         <li>naruto</li>
         <li>Attack on Titan</li>
         <li>Demon Slayer</li>
@@ -20,7 +20,7 @@
 
     <%
         String[] animeNames = {
-            "luffy",
+            "king",
             "nami",
             "Attack on Titan",
             "Demon Slayer",
